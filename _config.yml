@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.495221
 color:
   saturation: 0.9400512
-  lightness: 0.7601796
   brandStrength: 0.5119474
+  lightness: 0.7601796
   brandColors:
-    - '#020203'
-    - '#E9E1D7'
-    - '#655C5C'
-    - '#ACA4A2'
-    - '#88B45C'
+    - '#F2F1FA'
+    - '#527801'
+    - '#162701'
+    - '#0055A0'
+    - '#CF926E'
   rhythmicContrast: 0.6224749
+layout_spectrum: 1
 name: Pugs Forever
