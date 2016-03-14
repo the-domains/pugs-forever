@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.495221
+color:
+  saturation: 0.9400512
+  lightness: 0.7601796
+  brandStrength: 0.5119474
+  brandColors:
+    - '#020203'
+    - '#E9E1D7'
+    - '#655C5C'
+    - '#ACA4A2'
+    - '#88B45C'
+  rhythmicContrast: 0.6224749
+name: Pugs Forever
