@@ -4,8 +4,15 @@
         <description><![CDATA[Pugs Forever]]></description>
         <link>https://thegrid.ai/pugs-forever/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 13:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 18:11:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pugs-forever/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[So regal!]]></title>
+            <description><![CDATA[<h1>So regal!</h1>]]></description>
+            <link>https://thegrid.ai/pugs-forever/so-regal/index.html</link>
+            <guid isPermaLink="false">e471d45e-6786-45dc-8c74-3dedaa5e1824</guid>
+            <pubDate>Tue, 15 Mar 2016 18:11:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Good Morning, World!!]]></title>
             <description><![CDATA[<article><h1>Good Morning, World!!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d87abef30eec3da892c0ed136d91c8c44f53fc5f.png"></article>]]></description>
