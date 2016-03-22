@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-22T02:27:28.726Z'
-dateModified: '2016-03-22T02:27:19.399Z'
+datePublished: '2016-03-22T02:28:17.986Z'
+dateModified: '2016-03-22T02:28:02.781Z'
 title: 'Monday morning, 6 a.m.'
 author: []
+sourcePath: _posts/2016-03-22-monday-morning-6-am.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-22-monday-morning-6-am.md
-published: true
 url: monday-morning-6-am/index.html
 _type: Article
 
