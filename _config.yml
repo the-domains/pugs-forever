@@ -1,40 +1,40 @@
-name: Pugs Forever
 favicon: null
-layout_spectrum: 0.61291
-typography_spectrum: 0.495221
+name: Pugs Forever
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
-  brandColors:
-    - '#F2F1FA'
-    - '#527801'
-    - '#162701'
-    - '#0055A0'
-    - '#CF926E'
+  saturation: 0.875
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.875
+  brandColors:
+    - '#D4E5F7'
+    - '#6E90B3'
+    - '#050D02'
+    - '#B7A98F'
+    - '#445533'
   rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.495221
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.61291
+analytics:
+  twitter: null
+  google: null
+  facebook: null
